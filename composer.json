@@ -1,6 +1,7 @@
 {
   "name": "testefremov/example",
   "description": "example package",
+  "license": "GPL-3.0-only",
   "authors": [
     {
       "name": "Efimov Dmitry",
