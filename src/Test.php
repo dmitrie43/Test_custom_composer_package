@@ -1,6 +1,6 @@
 <?php
 
-namespace Test\Example;
+namespace TestEfremov\Example;
 
 class Test
 {
