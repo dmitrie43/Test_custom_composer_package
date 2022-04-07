@@ -17,11 +17,5 @@
     "psr-4": {
       "TestEfremov\\Example\\": "src/"
     }
-  },
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/dmitrie43/Test_custom_composer_package"
-    }
-  ]
+  }
 }
